@@ -148,3 +148,23 @@ Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/PRG Com
 	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81)
 	at org.h2.mvstore.MVStore.<init>(MVStore.java:291)
 	... 56 more
+2026-09-19 21:16:15.481644-03:00 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM SENSOR \000d\000a\000d\000aupdate [*]sensor set nome = 'Sensor Ultrasonico', tipo = 'Ultrasonico' where id = 2"; SQL statement:
+SELECT * FROM SENSOR 
+
+update sensor set nome = 'Sensor Ultrasonico', tipo = 'Ultrasonico' where id = 2 [42000-240]
+2026-09-19 21:16:27.542394-03:00 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM SENSOR \000d\000a\000d\000aupdate [*]sensor set nome = 'Sensor Ultrasonico' and tipo = 'Ultrasonico' where id = 2"; SQL statement:
+SELECT * FROM SENSOR 
+
+update sensor set nome = 'Sensor Ultrasonico' and tipo = 'Ultrasonico' where id = 2 [42000-240]
+2026-09-19 21:16:29.935213-03:00 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM SENSOR \000d\000a\000d\000aupdate [*]sensor set nome = 'Sensor Ultrasonico' tipo = 'Ultrasonico' where id = 2"; SQL statement:
+SELECT * FROM SENSOR 
+
+update sensor set nome = 'Sensor Ultrasonico' tipo = 'Ultrasonico' where id = 2 [42000-240]
+2026-09-19 21:16:36.989751-03:00 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM SENSOR \000d\000a\000d\000aupdate [*]sensor set nome = 'Sensor Ultrasonico', tipo = 'Ultrasonico' where id = 2"; SQL statement:
+SELECT * FROM SENSOR 
+
+update sensor set nome = 'Sensor Ultrasonico', tipo = 'Ultrasonico' where id = 2 [42000-240]
