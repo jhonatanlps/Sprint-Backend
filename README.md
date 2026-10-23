@@ -243,8 +243,7 @@ O celular e o computador devem estar conectados à mesma rede.
 
 Demonstração do projeto:
 
-[https://youtu.be/6DIuKqNw2e0](https://youtu.be/i4V9kymEHaA)
-
+[https://www.youtube.com/watch?v=gu39oQv1zAI](https://www.youtube.com/watch?v=gu39oQv1zAI)
 ## Repositório do Frontend
 
 [GitHub - Sprint Frontend](https://github.com/jhonatanlps/Sprint-Frontend)
