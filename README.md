@@ -239,6 +239,12 @@ O celular e o computador devem estar conectados à mesma rede.
 | Jhonatan Lopes Da Silva      | RM559174 | 3ECA  |
 | Nicolas Alves dos Santos     | RM558993 | 3ECR  |
 
+## Vídeo
+
+Demonstração do projeto:
+
+[https://youtu.be/6DIuKqNw2e0](https://youtu.be/i4V9kymEHaA)
+
 ## Repositório do Frontend
 
 [GitHub - Sprint Frontend](https://github.com/jhonatanlps/Sprint-Frontend)
